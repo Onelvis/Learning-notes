@@ -8,19 +8,19 @@
     "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Work\\.nuget\\packages\\": {}
+    "C:\\Users\\onelv\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Google drive2\\Study notes\\Learning-notes\\repos\\SortingAlgorithms\\SortingAlgorithms\\SortingAlgorithms.csproj",
+      "projectUniqueName": "D:\\Google drive\\Learning-notes\\repos\\SortingAlgorithms\\SortingAlgorithms\\SortingAlgorithms.csproj",
       "projectName": "SortingAlgorithms",
-      "projectPath": "D:\\Google drive2\\Study notes\\Learning-notes\\repos\\SortingAlgorithms\\SortingAlgorithms\\SortingAlgorithms.csproj",
-      "packagesPath": "C:\\Users\\Work\\.nuget\\packages\\",
-      "outputPath": "D:\\Google drive2\\Study notes\\Learning-notes\\repos\\SortingAlgorithms\\SortingAlgorithms\\obj\\",
+      "projectPath": "D:\\Google drive\\Learning-notes\\repos\\SortingAlgorithms\\SortingAlgorithms\\SortingAlgorithms.csproj",
+      "packagesPath": "C:\\Users\\onelv\\.nuget\\packages\\",
+      "outputPath": "D:\\Google drive\\Learning-notes\\repos\\SortingAlgorithms\\SortingAlgorithms\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Work\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\onelv\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

@@ -14,3 +14,19 @@ D:\Google drive2\Study notes\Learning-notes\repos\SortingAlgorithms\SortingAlgor
 D:\Google drive2\Study notes\Learning-notes\repos\SortingAlgorithms\SortingAlgorithms\obj\Debug\net5.0\ref\SortingAlgorithms.dll
 D:\Google drive2\Study notes\Learning-notes\repos\SortingAlgorithms\SortingAlgorithms\obj\Debug\net5.0\SortingAlgorithms.pdb
 D:\Google drive2\Study notes\Learning-notes\repos\SortingAlgorithms\SortingAlgorithms\obj\Debug\net5.0\SortingAlgorithms.genruntimeconfig.cache
+D:\Google drive\Learning-notes\repos\SortingAlgorithms\SortingAlgorithms\bin\Debug\net5.0\SortingAlgorithms.exe
+D:\Google drive\Learning-notes\repos\SortingAlgorithms\SortingAlgorithms\bin\Debug\net5.0\SortingAlgorithms.deps.json
+D:\Google drive\Learning-notes\repos\SortingAlgorithms\SortingAlgorithms\bin\Debug\net5.0\SortingAlgorithms.runtimeconfig.json
+D:\Google drive\Learning-notes\repos\SortingAlgorithms\SortingAlgorithms\bin\Debug\net5.0\SortingAlgorithms.runtimeconfig.dev.json
+D:\Google drive\Learning-notes\repos\SortingAlgorithms\SortingAlgorithms\bin\Debug\net5.0\SortingAlgorithms.dll
+D:\Google drive\Learning-notes\repos\SortingAlgorithms\SortingAlgorithms\bin\Debug\net5.0\ref\SortingAlgorithms.dll
+D:\Google drive\Learning-notes\repos\SortingAlgorithms\SortingAlgorithms\bin\Debug\net5.0\SortingAlgorithms.pdb
+D:\Google drive\Learning-notes\repos\SortingAlgorithms\SortingAlgorithms\obj\Debug\net5.0\SortingAlgorithms.csproj.AssemblyReference.cache
+D:\Google drive\Learning-notes\repos\SortingAlgorithms\SortingAlgorithms\obj\Debug\net5.0\SortingAlgorithms.GeneratedMSBuildEditorConfig.editorconfig
+D:\Google drive\Learning-notes\repos\SortingAlgorithms\SortingAlgorithms\obj\Debug\net5.0\SortingAlgorithms.AssemblyInfoInputs.cache
+D:\Google drive\Learning-notes\repos\SortingAlgorithms\SortingAlgorithms\obj\Debug\net5.0\SortingAlgorithms.AssemblyInfo.cs
+D:\Google drive\Learning-notes\repos\SortingAlgorithms\SortingAlgorithms\obj\Debug\net5.0\SortingAlgorithms.csproj.CoreCompileInputs.cache
+D:\Google drive\Learning-notes\repos\SortingAlgorithms\SortingAlgorithms\obj\Debug\net5.0\SortingAlgorithms.dll
+D:\Google drive\Learning-notes\repos\SortingAlgorithms\SortingAlgorithms\obj\Debug\net5.0\ref\SortingAlgorithms.dll
+D:\Google drive\Learning-notes\repos\SortingAlgorithms\SortingAlgorithms\obj\Debug\net5.0\SortingAlgorithms.pdb
+D:\Google drive\Learning-notes\repos\SortingAlgorithms\SortingAlgorithms\obj\Debug\net5.0\SortingAlgorithms.genruntimeconfig.cache
